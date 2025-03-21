@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanmugapriya
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react and node
+- 🌱 I’m currently learning react and node js
 - 📫 How to reach me in my mail shanupri.2004@gmail.com
 
 <!---
